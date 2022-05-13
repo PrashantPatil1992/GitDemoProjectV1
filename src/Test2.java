@@ -8,7 +8,7 @@ public class Test2 {
 		if(action=="hungry"){
 		
 			System.out.println("eat");
-		}else{
+		}else if(action=="No Hungry"){
 			System.out.println("work");
 		}
 
